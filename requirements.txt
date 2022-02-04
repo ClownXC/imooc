@@ -1,0 +1,5 @@
+peewee~=3.14.8
+passlib~=1.7.4
+zerorpc~=0.6.3
+
+loguru~=0.5.3
